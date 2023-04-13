@@ -20,7 +20,7 @@
 | 유창재 | ChangJae-YOO | [<img src = "https://github.com/ChangJae-YOO.png" width="50" height="50">](https://github.com/ChangJae-YOO) |
 | 임혜진 | ccookie | [<img src = "https://github.com/ccookie.png" width="50" height="50">](https://github.com/ccookie) |
 | 이예슬 | dontk1llme | [<img src = "https://github.com/dontk1llme.png" width="50" height="50">](https://github.com/dontk1llme) |
-| 김하림	|	Haaarimmm |	[<img src = "https://github.com/Haaarimmm.png" width="50" height="50">](https://github.com/Haaarimmm) |
+| 김하림	|	Haaarimmm |	[<img src = "https://github.com/Haaarimmm.png" width="50" height="500">](https://github.com/Haaarimmm) |
 
 <br><br>
 
