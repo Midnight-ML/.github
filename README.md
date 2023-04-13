@@ -1,13 +1,8 @@
-# .github
-
-
 # Competition
 
 
 
-----
-
-## Contents Table
+### Contents Table
 
 | Contents  | Description              | Due Date |-|
 | --------- | ------------------------ | -------- | - |
@@ -17,7 +12,6 @@
 
 <br>
 
----
 ### Member
 
 | Name  | username   | profile | 
